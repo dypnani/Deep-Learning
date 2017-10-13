@@ -18,7 +18,7 @@ No of hidden layers used is given by variable hidden_layer. if hidden_layer = 1 
 Any changes required, can be made in #Initialization block of main function in NeuralNetwork.py for variables momentum, hidden unit number, lamda for regularisation  
 
 
-for question 6(i), uncomment the necessary functions being used in forward and backward propogation 
-for question 6(h), to implement batch normalization uncomment the #implement batch norm block (4 lines) in main function in NeuralNet.py 
+uncomment the necessary functions being used in forward and backward propogation  
+To implement batch normalization uncomment the #implement batch norm block (4 lines) in main function in NeuralNet.py 
 
 Thank You
